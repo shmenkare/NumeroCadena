@@ -1,0 +1,9 @@
+NumeroCadena.csproj
+NumeroCadena.sln
+NumeroCadena.suo
+.gitattributes
+Properties/
+bin/
+obj/
+App.config
+.vs/
