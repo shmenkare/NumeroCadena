@@ -17,7 +17,7 @@ namespace NumeroCadena
         static void NumeroaCadena(int n1)
         {
             switch (n1)
-            { 
+            {
                 case 1:
                     Console.WriteLine("El numero es Uno");
                     break;
@@ -45,14 +45,14 @@ namespace NumeroCadena
                 case 9:
                     Console.WriteLine("El numero es Nueve");
                     break;
-                case 10 :
+                case 10:
                     Console.WriteLine("El numero es Dies");
                     break;
-                default :
+                default:
                     Console.WriteLine("Opcion no valida");
                     break;
 
-             }
+            }
         }
     }
 }
